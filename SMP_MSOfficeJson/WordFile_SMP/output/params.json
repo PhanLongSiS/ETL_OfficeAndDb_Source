@@ -1,0 +1,29 @@
+{
+  "config": {
+    "visible": true,
+    "printnow": false,
+    "printername": "",
+    "terminate": false
+  },
+  "documents": {
+    "contentcontrols": [
+      {
+        "title": "Tên Title 1",
+        "value": null,
+        "erroMess": "Không tồn tại ContentControl có title là Tên Title 1 trong Word"
+      },
+      {
+        "title": "Tên Title 2",
+        "value": null,
+        "erroMess": "Không tồn tại ContentControl có title là Tên Title 2 trong Word"
+      },
+      {
+        "title": "Tên Title 3",
+        "value": null,
+        "erroMess": "Không tồn tại ContentControl có title là Tên Title 3 trong Word"
+      }
+    ],
+    "tables": []
+  },
+  "erroMess": null
+}

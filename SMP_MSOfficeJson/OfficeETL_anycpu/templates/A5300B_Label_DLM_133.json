@@ -1,0 +1,39 @@
+{
+  "config": {
+    "visible": true,
+    "printnow": false,
+    "printername": "",
+    "terminate": false
+  },
+  "documents": {
+    "contentcontrols": [
+      {
+        "title": "BacSy1",
+        "value": "",
+        "erroMess": null
+      },
+      {
+        "title": "PTID1",
+        "value": "",
+        "erroMess": null
+      },
+      {
+        "title": "NgayPhat1",
+        "value": "",
+        "erroMess": null
+      },
+      {
+        "title": "SanPham1",
+        "value": "",
+        "erroMess": null
+      },
+      {
+        "title": "QuyCach1",
+        "value": "",
+        "erroMess": null
+      }
+    ],
+    "tables": []
+  },
+  "erroMess": null
+}

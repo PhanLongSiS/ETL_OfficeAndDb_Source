@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-f input\A5300B_Lab_1.A.1_v1.0.xls  -j output\A5300B_Lab_1.A.1_v1.0.json</StartArguments>
+    <StartWorkingDirectory>D:\DoAn\SMP_MSOfficeJson\ExcelFile_SMP\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartWorkingDirectory>D:\DoAn\SMP_MSOfficeJson\ExcelFile_SMP\</StartWorkingDirectory>
+    <StartArguments>-f input\A5300B_Lab_1.A.1_v1.0%28MicrolabBM%29done.xlsx  -j output\A5300B_Lab_1.A.1_v1.0%28MicrolabBM%29done.json</StartArguments>
+  </PropertyGroup>
+</Project>

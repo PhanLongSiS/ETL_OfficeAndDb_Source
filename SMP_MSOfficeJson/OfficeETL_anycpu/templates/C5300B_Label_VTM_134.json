@@ -1,0 +1,44 @@
+{
+  "errMessage": "",
+  "config": {
+    "visible": true,
+    "printnow": false,
+    "printername": "",
+    "terminate": false,
+    "saveas": null,
+    "activatesheet": true
+  },
+  "sheets": [
+    {
+      "errMessage": null,
+      "name": "C5300B_Label_VTM_134",
+      "cells": [
+        {
+          "posName": "PTID1",
+          "pos": null,
+          "value": "PTID:3118001E"
+        },
+        {
+          "posName": "Birthday",
+          "pos": null,
+          "value": "Ngày sinh:03/01/1999"
+        },
+        {
+          "posName": "Age",
+          "pos": null,
+          "value": "Tuổi: 24"
+        },
+        {
+          "posName": "CuocHen",
+          "pos": null,
+          "value": "Ngày hẹn :12/12/2022."
+        },
+        {
+          "posName": "QuyCach1",
+          "pos": null,
+          "value": "lọ 30 viên"
+        }
+      ]
+    }
+  ]
+}

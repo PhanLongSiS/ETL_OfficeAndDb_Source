@@ -1,0 +1,34 @@
+{
+  "errMessage": "",
+  "config": {
+    "visible": true,
+    "printnow": false,
+    "printername": "",
+    "terminate": false,
+    "saveas": null,
+    "activatesheet": true
+  },
+  "sheets": [
+    {
+      "errMessage": null,
+      "name": "A5300B_Lab_1.A.1_v1.0",
+      "cells": [
+        {
+          "posName": "SID1",
+          "pos": null,
+          "value": "A5300B 47593 E"
+        },
+        {
+          "posName": "Tuan1",
+          "pos": null,
+          "value": "Tuyển chọn"
+        },
+        {
+          "posName": "NgayPhat1",
+          "pos": null,
+          "value": "30/05/2023"
+        }
+      ]
+    }
+  ]
+}

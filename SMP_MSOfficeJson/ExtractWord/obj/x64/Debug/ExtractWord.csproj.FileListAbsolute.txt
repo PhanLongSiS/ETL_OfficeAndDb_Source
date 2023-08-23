@@ -1,0 +1,13 @@
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\bin\x64\Debug\ExtractWord.exe.config
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\bin\x64\Debug\ExtractWord.exe
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\bin\x64\Debug\ExtractWord.pdb
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\bin\x64\Debug\Jokedst.GetOpt.dll
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\bin\x64\Debug\Newtonsoft.Json.dll
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\bin\x64\Debug\Jokedst.GetOpt.xml
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\bin\x64\Debug\Newtonsoft.Json.xml
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\obj\x64\Debug\ExtractWord.csproj.AssemblyReference.cache
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\obj\x64\Debug\ExtractWord.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\obj\x64\Debug\ExtractWord.csproj.CoreCompileInputs.cache
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\obj\x64\Debug\ExtractWord.csproj.CopyComplete
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\obj\x64\Debug\ExtractWord.exe
+D:\DoAn\SMP_MSOfficeJson\ExtractWord\obj\x64\Debug\ExtractWord.pdb

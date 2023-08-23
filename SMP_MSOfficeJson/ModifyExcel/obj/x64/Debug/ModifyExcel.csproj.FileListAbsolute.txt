@@ -1,0 +1,12 @@
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\bin\x64\Debug\ModifyExcel.exe.config
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\bin\x64\Debug\ModifyExcel.exe
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\bin\x64\Debug\ModifyExcel.pdb
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\bin\x64\Debug\Jokedst.GetOpt.dll
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\bin\x64\Debug\Newtonsoft.Json.dll
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\bin\x64\Debug\Jokedst.GetOpt.xml
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\bin\x64\Debug\Newtonsoft.Json.xml
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\obj\x64\Debug\ModifyExcel.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\obj\x64\Debug\ModifyExcel.csproj.CoreCompileInputs.cache
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\obj\x64\Debug\ModifyExcel.csproj.CopyComplete
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\obj\x64\Debug\ModifyExcel.exe
+D:\DoAn\SMP_MSOfficeJson\ModifyExcel\obj\x64\Debug\ModifyExcel.pdb

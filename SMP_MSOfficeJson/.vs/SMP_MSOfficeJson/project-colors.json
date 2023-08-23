@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b99df3b-c35a-48a7-8ba0-2f363352852e": {
+      "ProjectGuid": "4b99df3b-c35a-48a7-8ba0-2f363352852e",
+      "DisplayName": "SMP_MSOfficeJson",
+      "ColorIndex": 0
+    },
+    "b626f64f-1c6d-460d-8ce9-78015b20dc1d": {
+      "ProjectGuid": "b626f64f-1c6d-460d-8ce9-78015b20dc1d",
+      "DisplayName": "ExtractExcel",
+      "ColorIndex": 1
+    },
+    "dc63c98a-08b9-4977-8067-de0490533852": {
+      "ProjectGuid": "dc63c98a-08b9-4977-8067-de0490533852",
+      "DisplayName": "ModifyExcel",
+      "ColorIndex": 2
+    },
+    "b0a3780b-921d-4666-8e26-c4ea1260fff2": {
+      "ProjectGuid": "b0a3780b-921d-4666-8e26-c4ea1260fff2",
+      "DisplayName": "ExtractWord",
+      "ColorIndex": 3
+    },
+    "ea2ba648-a54a-4124-b0cb-89edbaccefdf": {
+      "ProjectGuid": "ea2ba648-a54a-4124-b0cb-89edbaccefdf",
+      "DisplayName": "ModifyWord",
+      "ColorIndex": 4
+    },
+    "71be815f-b07f-424c-acb3-cc8e68675362": {
+      "ProjectGuid": "71be815f-b07f-424c-acb3-cc8e68675362",
+      "DisplayName": "SMP_MSWord",
+      "ColorIndex": 5
+    },
+    "57edd388-897e-42ac-a169-1bc88099ea63": {
+      "ProjectGuid": "57edd388-897e-42ac-a169-1bc88099ea63",
+      "DisplayName": "SMP_MSExcel",
+      "ColorIndex": 6
+    },
+    "6015e5c9-d823-435e-b9c5-30b96b588e22": {
+      "ProjectGuid": "6015e5c9-d823-435e-b9c5-30b96b588e22",
+      "DisplayName": "ModifyMSExcel",
+      "ColorIndex": 7
+    },
+    "bd0f73a7-f762-4aab-8cf6-cbd38e764abe": {
+      "ProjectGuid": "bd0f73a7-f762-4aab-8cf6-cbd38e764abe",
+      "DisplayName": "SMP_JsonToDb",
+      "ColorIndex": 8
+    },
+    "097478a6-4fc7-44d0-80dc-df4ebbe56def": {
+      "ProjectGuid": "097478a6-4fc7-44d0-80dc-df4ebbe56def",
+      "DisplayName": "SMP_JsonToDb",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cf7ed1d3-9294-4739-a0e9-d6af0571270a": {
+      "ProjectGuid": "cf7ed1d3-9294-4739-a0e9-d6af0571270a",
+      "DisplayName": "TransformExJsToWordJs",
+      "ColorIndex": 10
+    },
+    "fbda8c35-3cfd-406a-b421-f70aeeec7e41": {
+      "ProjectGuid": "fbda8c35-3cfd-406a-b421-f70aeeec7e41",
+      "DisplayName": "SMP_TranformJS",
+      "ColorIndex": 11
+    },
+    "7e06c46a-95eb-4970-836c-ce83e4f46c9b": {
+      "ProjectGuid": "7e06c46a-95eb-4970-836c-ce83e4f46c9b",
+      "DisplayName": "TransformWordJsToExJs",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

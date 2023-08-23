@@ -1,0 +1,12 @@
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\bin\x64\Debug\ModifyWord.exe.config
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\bin\x64\Debug\ModifyWord.exe
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\bin\x64\Debug\ModifyWord.pdb
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\bin\x64\Debug\Jokedst.GetOpt.dll
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\bin\x64\Debug\Newtonsoft.Json.dll
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\bin\x64\Debug\Jokedst.GetOpt.xml
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\bin\x64\Debug\Newtonsoft.Json.xml
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\obj\x64\Debug\ModifyWord.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\obj\x64\Debug\ModifyWord.csproj.CoreCompileInputs.cache
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\obj\x64\Debug\ModifyWord.csproj.CopyComplete
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\obj\x64\Debug\ModifyWord.exe
+D:\DoAn\SMP_MSOfficeJson\ModifyWord\obj\x64\Debug\ModifyWord.pdb

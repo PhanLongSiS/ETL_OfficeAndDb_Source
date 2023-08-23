@@ -1,0 +1,7 @@
+D:\DoAn\SMP_MSOfficeJson\SMP\bin\Debug\SMP.exe.config
+D:\DoAn\SMP_MSOfficeJson\SMP\bin\Debug\SMP.exe
+D:\DoAn\SMP_MSOfficeJson\SMP\bin\Debug\SMP.pdb
+D:\DoAn\SMP_MSOfficeJson\SMP\obj\Debug\SMP_MSDb.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\SMP_MSOfficeJson\SMP\obj\Debug\SMP_MSDb.csproj.CoreCompileInputs.cache
+D:\DoAn\SMP_MSOfficeJson\SMP\obj\Debug\SMP.exe
+D:\DoAn\SMP_MSOfficeJson\SMP\obj\Debug\SMP.pdb

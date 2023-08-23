@@ -1,0 +1,13 @@
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\bin\Debug\ExtractExcel.exe.config
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\bin\Debug\ExtractExcel.exe
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\bin\Debug\ExtractExcel.pdb
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\bin\Debug\Jokedst.GetOpt.dll
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\bin\Debug\Newtonsoft.Json.dll
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\bin\Debug\Jokedst.GetOpt.xml
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\bin\Debug\Newtonsoft.Json.xml
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\obj\Debug\ExtractExcel.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\obj\Debug\ExtractExcel.csproj.CoreCompileInputs.cache
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\obj\Debug\ExtractExcel.csproj.CopyComplete
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\obj\Debug\ExtractExcel.exe
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\obj\Debug\ExtractExcel.pdb
+D:\DoAn\SMP_MSOfficeJson\ExtractExcel\obj\Debug\ExtractExcel.csproj.AssemblyReference.cache

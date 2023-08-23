@@ -1,0 +1,33 @@
+{
+  "config": {
+    "visible": true,
+    "printnow": false,
+    "printername": "",
+    "terminate": false
+  },
+  "documents": {
+    "contentcontrols": [
+      {
+        "title": "PTID1",
+        "value": "PTID:BN001",
+        "erroMess": null
+      },
+      {
+        "title": "Tuan1",
+        "value": "Cuộc hẹn:23/12/2021",
+        "erroMess": null
+      },
+      {
+        "title": "BirthDay",
+        "value": "Ngày sinh:03/01/1999",
+        "erroMess": null
+      },
+      {
+        "title": "Age",
+        "value": "Tuổi:24",
+        "erroMess": null
+      }
+    ]
+  },
+  "erroMess": null
+}

@@ -1,0 +1,7 @@
+D:\DoAn\SMP_MSOfficeJson\SMP_JsonToDb\obj\Debug\SMP_JsonToDb.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\SMP_MSOfficeJson\SMP_JsonToDb\obj\Debug\SMP_JsonToDb.csproj.CoreCompileInputs.cache
+D:\DoAn\SMP_MSOfficeJson\SMP_JsonToDb\bin\Debug\SMP_JsonToDb.exe.config
+D:\DoAn\SMP_MSOfficeJson\SMP_JsonToDb\bin\Debug\SMP_JsonToDb.exe
+D:\DoAn\SMP_MSOfficeJson\SMP_JsonToDb\bin\Debug\SMP_JsonToDb.pdb
+D:\DoAn\SMP_MSOfficeJson\SMP_JsonToDb\obj\Debug\SMP_JsonToDb.exe
+D:\DoAn\SMP_MSOfficeJson\SMP_JsonToDb\obj\Debug\SMP_JsonToDb.pdb
